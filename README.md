@@ -10,6 +10,6 @@ Here you can see the comparison between the predicted values, and the actual val
 
 ### K-Nearest-Neighbours, prediction for UK:
 
-<img src="https://imgur.com/klVBS2j"/>
+![knn](https://github.com/omiguelgomes/FEUP-IART-Covid19/blob/master/knn-uk.png?raw=true)
 
 To visualize the project, simply open the notebook.ipynb file in a JupyterNotebook or JupyterLab.
